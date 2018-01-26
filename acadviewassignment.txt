@@ -1,0 +1,8 @@
+java class 8 quiz 
+
+1- yes
+2-private should not be there ,it should be public because if it is set 
+private it will not get accessed in inherited class.
+3-yes
+4-method should be public 
+5-
